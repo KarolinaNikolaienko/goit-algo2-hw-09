@@ -1,2 +1,9 @@
-# goit-algo2-hw-09
-Algorithms 2 Homework 9
+# Algorithms 2 Homework 9
+
+Реалізація програми для мінімізації функції Сфери 
+
+$$ f(x) = \sum_{i=1}^n x_i^2 $$
+використовуючи три різні підходи до локальної оптимізації:
+- Алгоритм «Підйом на гору» (Hill Climbing)
+- Випадковий локальний пошук (Random Local Search)
+- Імітацію відпалу (Simulated Annealing)
